@@ -12,6 +12,7 @@ on the autism spectrum make friends with people from all walks of life over the 
 Link to my prototype https://drive.google.com/file/d/1oIVrm1YkPw-4c9mFpGr7jqQNi99zsFVq/view?usp=share_link
 
 Screenshot of my flowchart
+![workflow jpg](https://github.com/Regomoditsoe/alx_capstone_project/assets/129755524/dab21e8c-8d7b-4ae8-8f11-be13bdae2f12)
 
 
 
